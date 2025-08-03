@@ -1,0 +1,28 @@
+[
+  {
+    "id": "python-desde-cero",
+    "titulo": "Python desde cero",
+    "descripcion": "Aprende sintaxis y lógica básica con Python.",
+    "imagen": "/images/banner.jpg",
+    "contenido": [
+      {
+        "texto": "Python es ideal para aprender a programar.",
+        "imagen": "/images/content.jpg"
+      }
+    ],
+    "recomendaciones": ["java-basico", "estructuras-de-datos"]
+  },
+  {
+    "id": "java-basico",
+    "titulo": "Java básico",
+    "descripcion": "Crea programas orientados a objetos.",
+    "imagen": "/images/banner.jpg",
+    "contenido": [
+      {
+        "texto": "Java es un lenguaje popular en empresas.",
+        "imagen": "/images/content.jpg"
+      }
+    ],
+    "recomendaciones": ["python-desde-cero"]
+  }
+]
