@@ -65,7 +65,7 @@ export default function Home() {
         className="text-center mb-16"
       >
         <h1 className="text-4xl md:text-5xl font-extrabold mb-4">
-          Aprende a programar <span className="text-cyan-400">desde cero</span>
+          Aprende a programar <span className="text-cyan-400">desde zero</span>
         </h1>
         <p className="text-gray-400 max-w-2xl mx-auto text-lg mb-8">
           Plataforma educativa moderna, gratuita, clara y confiable.
