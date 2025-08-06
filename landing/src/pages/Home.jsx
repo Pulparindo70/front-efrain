@@ -68,7 +68,7 @@ export default function Home() {
           Aprende a programar <span className="text-cyan-400">desde cero</span>
         </h1>
         <p className="text-gray-400 max-w-2xl mx-auto text-lg mb-8">
-          Plataforma educativa moderna creada por el profesor Rafael. Gratuita, clara y confiable.
+          Plataforma educativa moderna, gratuita, clara y confiable.
         </p>
         <a
           href="/cursos"

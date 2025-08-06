@@ -18,7 +18,7 @@ export default function Header() {
     <>
       <header className="fixed top-4 left-0 right-0 z-50 px-4 md:px-10">
         <div className="bg-white/10 backdrop-blur rounded-full border border-white/10 shadow-md flex justify-between items-center py-3 px-5 md:px-8 max-w-6xl mx-auto">
-          <h1 className="font-bold text-white font-[Inter] text-lg">Raf.app</h1>
+          <h1 className="font-bold text-white font-[Inter] text-lg">Daniapp</h1>
 
           {/* Desktop menu */}
           <nav className="hidden md:flex gap-6 items-center text-sm font-medium text-white">
