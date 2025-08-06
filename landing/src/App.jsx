@@ -10,7 +10,7 @@ function App() {
     const interval = setInterval(() => {
       if (window.grecaptcha && window.grecaptcha.ready) {
         window.grecaptcha.ready(() => {
-          console.log('✅ reCAPTCHA listo');
+          console.log('✅ reCAPTCHA liston');
         });
         clearInterval(interval);
       }
